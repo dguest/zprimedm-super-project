@@ -1,0 +1,6 @@
+# build directory
+/build/
+
+# asetup auto-generated stuff
+.asetup.save
+/CMakeLists.txt
