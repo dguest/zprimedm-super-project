@@ -1,0 +1,6 @@
+[submodule "xAODAnaHelpers"]
+	path = xAODAnaHelpers
+	url = git@github.com:UCATLAS/xAODAnaHelpers.git
+[submodule "ZprimeDM"]
+	path = ZprimeDM
+	url = ssh://git@gitlab.cern.ch:7999/atlas-phys-exotics-dijetisr/ZprimeDM.git
